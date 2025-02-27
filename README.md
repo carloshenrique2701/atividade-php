@@ -23,14 +23,14 @@ Este é um simples programa em PHP que coleta informações do usuário (nome, i
 
 ### Passos para Executar
 
-1. **Clone o repositório ou copie o código** para um arquivo com a extensão `.php`, por exemplo, `cadastro_usuario.php`.
+1. *Clone o repositório ou copie o código* para um arquivo com a extensão `.php`, por exemplo, `cadastro_usuario.php`.
 
-2. **Abra o terminal** e navegue até o diretório onde o arquivo está salvo.
+2. *Abra o terminal* e navegue até o diretório onde o arquivo está salvo.
 
-3. **Execute o script** com o seguinte comando:
-   ```bash
+3. *Execute o script* com o seguinte comando:
+   
    php cadastro_usuario.php
-   ```
+   
 
 4. **Siga as instruções no terminal**:
    - Insira seu nome.
