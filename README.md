@@ -30,7 +30,7 @@ Este é um simples programa em PHP que coleta informações do usuário (nome, i
 3. *Execute o script* com o seguinte comando:
    
    php cadastro_usuario.php
-   
+```
 
 4. **Siga as instruções no terminal**:
    - Insira seu nome.
